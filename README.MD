@@ -43,4 +43,4 @@ npm run start
 
 ### Latest Airdrops Join Telegram
 
-Join Telegram:[@hiddengemnews](https://t.me/hiddengemnews)
+### Join Telegram:[HiddenGemNews](https://t.me/hiddengemnews)
