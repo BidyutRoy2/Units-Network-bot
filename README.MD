@@ -7,7 +7,7 @@ git clone https://github.com/BidyutRoy2/Units-Network-bot.git
 ```
 
 ```
-cd bot-unit-zero
+cd Units-Network-bot
 ```
 
 ### 2. Instal Dependency
