@@ -3,7 +3,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/bot-unit-zero.git
+git clone https://github.com/BidyutRoy2/Units-Network-bot.git
 ```
 
 ```
