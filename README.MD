@@ -1,4 +1,4 @@
-### Open VsCode or [Github CodeSpace](https://github.com/codespaces)
+### Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
 ## Steps
 
